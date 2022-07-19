@@ -4,9 +4,9 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 import time
 
-ACCOUNT_EMAIL = "bjorn.p.stenberg@gmail.com"
-ACCOUNT_PASSWORD = "#ThebigbadbearLinkedIn89"
-PHONE = +46721596185
+ACCOUNT_EMAIL = "YOUR EMAIL"
+ACCOUNT_PASSWORD = "YOUR PASSWORD"
+PHONE = YOUR NUMBER
 
 service = Service("/Users/bjornstenberg/Development/chromedriver")
 # Capital Letter means OBJECT
